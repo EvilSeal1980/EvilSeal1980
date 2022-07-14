@@ -27,6 +27,12 @@
 
 &nbsp;
 
+### ⭐ Stats
+
+<!-- Catppuccin themed -->
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=EvilSeal1980&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilSeal1980&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
+
 ### Connect with me
 
 [<img align="left" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
@@ -40,13 +46,3 @@
 [reddit]: https://www.reddit.com/user/EvilSeal_1980
 [telegram]: https://t.me/evil_seal
 [linkedin]: https://www.linkedin.com/in/abhirup-panda-a40020214/
-
----
-
-<!-- Stats-->
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvilSeal1980&show_icons=true&locale=en&layout=compact" alt="EvilSeal1980" /></p>
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EvilSeal1980&show_icons=true&locale=en" alt="EvilSeal1980" /></p>
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EvilSeal1980&" alt="EvilSeal1980" /></p>
