@@ -37,10 +37,10 @@
 
 ### Connect with me
 
-[<img align="left" alt="Reddit" width="30px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
-[<img align="left" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/EvilSeal1980/EvilSeal1980/main/assets/linkedin_icon-icons.com_65929.png" />][linkedin]
-[<img align="left" alt="Telegram" width="30px" src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" />][telegram]
-[<img align="left" alt="Gmail" width="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/gmail_logo_icon_147283.png" />][gmail]
+[<img align="left" alt="Reddit" width="40px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
+[<img align="left" alt="Linkedin" width="40px" src="https://raw.githubusercontent.com/EvilSeal1980/EvilSeal1980/main/assets/linkedin_icon-icons.com_65929.png" />][linkedin]
+[<img align="left" alt="Telegram" width="40px" src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" />][telegram]
+[<img align="left" alt="Gmail" width="40px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/gmail_logo_icon_147283.png" />][gmail]
 
 &nbsp;
 
