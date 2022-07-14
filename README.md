@@ -4,7 +4,7 @@
 
 ### About Me
 
--   🔭 I’m currently an undergraduate in IIIT BBSR
+-   👨🏻‍🎓I’m currently an undergraduate in IIIT BBSR
 -   🌱 At the moment I'm learning DSA & Web
 -   💬 Ask me about anything, I'd be happy to answer ;)
 
