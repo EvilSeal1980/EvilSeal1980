@@ -40,3 +40,13 @@
 [reddit]: https://www.reddit.com/user/EvilSeal_1980
 [telegram]: https://t.me/evil_seal
 [linkedin]: https://www.linkedin.com/in/abhirup-panda-a40020214/
+
+---
+
+<!-- Stats-->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvilSeal1980&show_icons=true&locale=en&layout=compact" alt="EvilSeal1980" /></p>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EvilSeal1980&show_icons=true&locale=en" alt="EvilSeal1980" /></p>
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EvilSeal1980&" alt="EvilSeal1980" /></p>
